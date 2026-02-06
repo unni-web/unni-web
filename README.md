@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Unnikrishnan P M
 
 🚀 Software Developer | 💡 Problem Solver | 🌱 Always Learning
 
@@ -8,11 +8,11 @@ I enjoy writing clean code, learning new technologies, and solving challenging p
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript, Python, TypeScript  
-- **Frontend:** React, Next.js, HTML, CSS, Tailwind  
-- **Backend:** Node.js, Express  
-- **Databases:** MongoDB, PostgreSQL  
-- **Tools:** Git, GitHub, Docker, VS Code, Linux  
+- **Languages & Frameworks:** Python, Django, Flask, JavaScript, React, Rest API, JSON   
+- **Frontend:** Bootstrap, Tailwind CSS, HTML5, CSS 
+- **Databases:** MongoDB, MySQL, SQLITE , PostgtresSQL  
+- **Dev Tools & Platforms:** Git, GitHub, Docker, VS Code, Postman
+- **Authentication & Payments**: Auth0, Razorpay,JWT 
 
 ---
 
@@ -30,9 +30,9 @@ I enjoy writing clean code, learning new technologies, and solving challenging p
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/yourname  
+- 💼 LinkedIn: https://www.linkedin.com/in/unnikrishnan-p-m-5b3345384/ 
 - 🌍 Portfolio: https://yourwebsite.com  
-- 📫 Email: your@email.com  
+- 📫 Gmail: unnikrish1011@gmail.com  
 
 ---
 
